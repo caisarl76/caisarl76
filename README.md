@@ -1,4 +1,5 @@
 ### Hi there 👋
+### 🔭 I’m currently working on Computer Vision, especially in Imbalance Learning.
 
 <!--
 **caisarl76/caisarl76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://www.instagram.com/pizza_jh/" target="_blank"><img src="https://img.shields.io/badge/instagram-배경색?style=뱃지모양&logo=로고&logoColor=#E4405F"/></a>
+
+
+
