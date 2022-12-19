@@ -3,8 +3,7 @@
 
 <h3 align="center"> 👋 Hi there! Welcome to my repository. </h3>
 
-<p align="center"> I'm a machine learning researcher currently working on Imbalance Learning. 
-  I enjoy playing soccer, surf and any other fun activities. </p>
+<p align="center"> I'm a machine learning researcher currently working on Imbalance Learning. </p>
 
 <p align="center"> 🔭 I’m currently working on Computer Vision, especially on Imbalance Learning. </p>
 
