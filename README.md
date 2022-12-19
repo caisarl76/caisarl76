@@ -10,7 +10,9 @@
 
 <h3 align="center">
   Programming Languages   
-  <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <p align="center">
+    <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  </p>
 </h3>  
 
 <p align="center">
@@ -19,8 +21,6 @@
   <a href="https://www.instagram.com/pizza_jh/"><img src="https://img.shields.io/badge/pizza_jh-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
 
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
