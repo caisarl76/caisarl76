@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JihunKim&fontSize=70&animation=twinkling)
 <p align="center">🇰🇷</p>
 
-### 👋 Hi there! Welcome to my repository. 
-I'm a machine learning researcher currently working on Imbalance Learning.
-I enjoy playing soccer, surf and any other fun activities.
+<h3 align="center"> ### 👋 Hi there! Welcome to my repository. </h3>
+
+<p align="center"> I'm a machine learning researcher currently working on Imbalance Learning. I enjoy playing soccer, surf and any other fun activities. </[>
 
 ### 🔭 I’m currently working on Computer Vision, especially in Imbalance Learning.
 
