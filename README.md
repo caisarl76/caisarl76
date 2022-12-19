@@ -9,7 +9,7 @@
 <p align="center"> 🔭 I’m currently working on Computer Vision, especially in Imbalance Learning. </p>
 
 <h3 align="center">
-  Programming Languages  
+  Programming Languages   
   <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 </h3>  
 
