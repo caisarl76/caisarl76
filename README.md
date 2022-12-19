@@ -8,14 +8,16 @@
 
 <p align="center"> 🔭 I’m currently working on Computer Vision, especially in Imbalance Learning. </p>
 
-<p align="center"> 
+<h3 align="center">
   Programming Languages  
   <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-</p>  
-  
-<a href="mailto:caisarl76@gmail.com"><img src="https://img.shields.io/badge/caisarl76@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/jihun-kim-753231206/"><img src="https://img.shields.io/badge/JihunKim-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/pizza_jh/"><img src="https://img.shields.io/badge/pizza_jh-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+</h3>  
+
+<p align="center">
+  <a href="mailto:caisarl76@gmail.com"><img src="https://img.shields.io/badge/caisarl76@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jihun-kim-753231206/"><img src="https://img.shields.io/badge/JihunKim-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/pizza_jh/"><img src="https://img.shields.io/badge/pizza_jh-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+</p>
 
 
 Here are some ideas to get you started:
