@@ -8,12 +8,13 @@
 
 <p align="center"> 🔭 I’m currently working on Computer Vision, especially on Imbalance Learning. </p>
 
-<h3 align="center">
-  Programming Languages   
-  <p align="center">
-    <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  </p>
-</h3>  
+<h3 align="center"> 🛠 Tech Stack 🛠  </h3>  
+<p align="center">
+  <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>&nbsp 
+</p>
+
 
 <h3 align="center"> Ways to reach Me </h3>
 <p align="center">
