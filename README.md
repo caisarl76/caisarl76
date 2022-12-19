@@ -3,12 +3,13 @@
 
 <h3 align="center"> ### 👋 Hi there! Welcome to my repository. </h3>
 
-<p align="center"> I'm a machine learning researcher currently working on Imbalance Learning. I enjoy playing soccer, surf and any other fun activities. </[>
+<p align="center"> I'm a machine learning researcher currently working on Imbalance Learning. 
+  I enjoy playing soccer, surf and any other fun activities. </p>
 
-### 🔭 I’m currently working on Computer Vision, especially in Imbalance Learning.
+<p align="center"> ### 🔭 I’m currently working on Computer Vision, especially in Imbalance Learning. </p>
 
-## Programming Languages
-<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<p align="center"> ## Programming Languages </\p>
+  <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 <!--
 **caisarl76/caisarl76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
