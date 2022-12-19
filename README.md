@@ -15,7 +15,10 @@
   </p>
 </h3>  
 
-<p align="center"> 📫 How to reach me: 
-  <a href="mailto:caisarl76@gmail.com"><img src="https://img.shields.io/badge/caisarl76@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/jihun-kim-753231206/"><img src="https://img.shields.io/badge/JihunKim-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a> <a href="https://www.instagram.com/pizza_jh/"><img src="https://img.shields.io/badge/pizza_jh-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<h3 align="center"> Ways to reach Me </h3>
+<p align="center">
+  <a href="mailto:caisarl76@gmail.com"><img src="https://img.shields.io/badge/caisarl76@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp
+  <a href="https://www.linkedin.com/in/jihun-kim-753231206/"><img src="https://img.shields.io/badge/JihunKim-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp
+  <a href="https://www.instagram.com/pizza_jh/"><img src="https://img.shields.io/badge/pizza_jh-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
 
